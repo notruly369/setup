@@ -2,6 +2,8 @@
 
 Welcome to our online Tabletop RPG, Dungeons and Dragons (D&D) game! This repository contains the resources you need to participate in our upcoming campaign, starting on June 18th, 2023. Make sure you've got your dice and character sheets ready for an epic journey!
 
+![Alt Text](./media/windy_ship.gif)
+
 ## Getting Started
 
 To get started, make sure you are familiar with the basics of D&D. If you need a quick refresher, check out the [Player's Handbook](https://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook).
